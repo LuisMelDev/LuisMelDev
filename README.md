@@ -1,5 +1,12 @@
-### Hi there 👋
 
+<p align="center" width="300">
+   <h3 align="center">¡Hi 👋! I'm Luis Melendez 👨🏻‍💻</h3>
+</p>
+
+<p align="center"><strong>Full-stack Developer<br /></p>
+
+- 🔭 I’m currently working on [@skydropx](https://github.com/Skydropx).
+- 🌱 I’m currently learning React Native and TDD.
 <!--
 **LuisMelDev/LuisMelDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
