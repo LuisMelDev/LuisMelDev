@@ -6,7 +6,7 @@
 <p align="center"><strong>Full-stack Developer<br /></p>
 
 - 🔭 I’m currently working on [@skydropx](https://github.com/Skydropx).
-- 🌱 I’m currently learning React Native and TDD.
+- 🌱 I’m currently learning NestJS.
 <!--
 **LuisMelDev/LuisMelDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
